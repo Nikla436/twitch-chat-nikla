@@ -1,0 +1,10 @@
+.env
+node_modules
+/.idea/.gitignore
+/.idea/jsLibraryMappings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/twitch-chat-nikla.iml
+/.idea/vcs.xml
+/.idea/.name
+/.idea/dictionaries/nikla.xml
